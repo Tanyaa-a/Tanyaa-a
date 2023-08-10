@@ -12,8 +12,8 @@ I'm a passionate frontend developer specializing in creating interactive and res
 
 ## 🌐 Recent Projects
 
-1. **Project Name 1** - A brief description. [🔗 View Project](#)
-2. **Project Name 2** - Another short description. [🔗 View Project](#)
+1. **Momentum clone** - A brief description. [🔗 View Project](#)
+2. **Broolyn Library** - Another short description. [🔗 View Project](https://tanyaa-a.github.io/Brooklyn-Library/library/)
 
 ## 📫 Let's Connect!
 
