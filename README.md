@@ -12,8 +12,8 @@ I'm a passionate frontend developer specializing in creating interactive and res
 
 ## 🌐 Recent Projects
 
-1. **Momentum clone** - A brief description. [🔗 View Project](#)
-2. **Broolyn Library** - Another short description. [🔗 View Project](https://tanyaa-a.github.io/Brooklyn-Library/library/)
+1. **Momentum clone** - A reimagined start page for your browser that offers a personalized greeting, inspirational quote, to-do list, and beautiful background images to keep you inspired and focused throughout your day. [🔗 View Project](https://tanyaa-a.github.io/Momentum-clone/momentum/)
+2. **Brooklyn Library alternate website** - Your browser's gateway to Brooklyn's literary world. Featuring daily book highlights, curated backgrounds, and easy-to-use tools for avid readers. Start each session with a touch of Brooklyn's literary charm.. [🔗 View Project](https://tanyaa-a.github.io/Brooklyn-Library/library/)
 
 ## 📫 Let's Connect!
 
