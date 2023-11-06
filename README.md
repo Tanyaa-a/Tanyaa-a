@@ -5,7 +5,6 @@ I'm a passionate frontend developer specializing in creating interactive and res
 ## 🔍 My Expertise
 
 - **Languages**: JavaScript (ES6+)
-- **Frameworks/Libraries**: React
 - **CSS & Styling**: SCSS, Bootstrap, Tailwind CSS
 - **Tools**: Webpack, ESLint
 - **Version Control**: Git & GitHub
@@ -22,7 +21,6 @@ I'm a passionate frontend developer specializing in creating interactive and res
 - [LinkedIn](www.linkedin.com/in/tanya-andr)
 - 📧 Email: andriyanovatet@gmail.com
 
-## 🌱 Currently Learning
-I'm currently diving deeper into **React.js** and exploring the capabilities of **Server Side Rendering** with it.
+
 
 
