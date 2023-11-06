@@ -7,7 +7,6 @@ I'm a passionate frontend developer specializing in creating interactive and res
 - **Languages**: JavaScript (ES6+)
 - **CSS & Styling**: SCSS, Bootstrap, Tailwind CSS
 - **Tools**: Webpack, ESLint
-- **Version Control**: Git & GitHub
 
 ## 🌐 Recent Projects
 
