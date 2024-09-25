@@ -5,8 +5,8 @@ I'm a passionate frontend developer specializing in creating interactive and res
 ## 🔍 My Expertise
 
 - **Languages Frameworks**: JavaScript, React, Next.JS
-- **CSS & Styling**: SCSS, ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), Bootstrap, Tailwind CSS
-- **Tools**: Webpack, ESLint
+- **CSS & Styling**: SCSS, Bootstrap, Tailwind CSS
+- **Tools**: CitHub, Webpack, ESLint, Jira, Trello
 
 ## 🌐 Recent Projects
 
