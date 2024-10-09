@@ -17,7 +17,7 @@ I'm a passionate frontend developer specializing in creating interactive and res
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](www.linkedin.com/in/tanya-andr)
+- [LinkedIn](www.linkedin.com/in/tetianaandriy)
 - 📧 Email: andriyanovatet@gmail.com
 
 
